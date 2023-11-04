@@ -21,7 +21,7 @@
  - And voila! We have a great project worked on by Queen Koders!!!
 
  ## Contributors include
- - [Tosin Bamidele]() 
+ - [Tosin Bamidele](https://github.com/TosinMary) 
  - Chizaram Anisimuo
  - Sylvia Nnoruka
  - Blessing Peter
@@ -29,7 +29,8 @@
  - Wokrit Bakkuk
  - [Perpetual Meninwa](https://github.com/Perpy-del)
  - Chioma Ekpemerechi
- - Udoka Kasie
+ - [Udoka Kasie](https://github.com/UdokaSuccess)
  - Adejumoke Ajayi 
 
  ## Screenshot of the project
+![Quotes](./quotes.png)
