@@ -23,7 +23,7 @@
  ## Guideline to view the project
 
  To view the project on your local machine.
- - Clone the repositoty 
+ - Clone the repository 
 
  ``git clone https://github.com/Perpy-del/queen-koders-one.git``
 
