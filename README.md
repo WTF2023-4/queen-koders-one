@@ -20,6 +20,20 @@
 
  - And voila! We have a great project worked on by Queen Koders!!!
 
+ ## Guideline to view the project
+
+ To view the project on your local machine.
+ - Clone the repositoty 
+
+ ``git clone https://github.com/Perpy-del/queen-koders-one.git``
+
+ - Change your current working directory to the project directory
+
+ ``cd queen-koders-one``
+
+ - Open the index.html file and run it on your local machine
+
+
  ## Contributors include
  - [Tosin Bamidele](https://github.com/TosinMary) 
  - Chizaram Anisimuo
