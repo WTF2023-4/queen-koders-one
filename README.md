@@ -33,4 +33,4 @@
  - Adejumoke Ajayi 
 
  ## Screenshot of the project
-![Quotes](./quotes.png)
+![Quotes](./images/quotes.png)
