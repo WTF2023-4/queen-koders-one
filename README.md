@@ -36,7 +36,7 @@
 
  ## Contributors include
  - [Tosin Bamidele](https://github.com/TosinMary) 
- - Chizaram Anisimuo
+ - [Chizaram Anisimuo](https://github.com/thezaram)
  - Sylvia Nnoruka
  - Blessing Peter
  - Stella Ugoo-Okonkwo
